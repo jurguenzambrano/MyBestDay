@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Best Day</string>
+    <string name="textTemperatura">Temperatura : </string>
+    <string name="textHumedad">Humedad : </string>
+    <string name="textPresion">Presión : </string>
+    <string name="textTemperaturaMin">Temperatura Mínima : </string>
+    <string name="textTemperaturaMax">Temperatura Máxima : </string>
+</resources>
